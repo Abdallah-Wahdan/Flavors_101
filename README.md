@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Flavors 101
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Flavors 101 for all your Hungry needs any time, any day.
 
 ## Available Scripts
 
